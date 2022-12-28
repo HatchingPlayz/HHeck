@@ -1,0 +1,11 @@
+import os
+from tkinter import*
+
+launch = Tk()
+
+launch.mainloop()
+
+os.system('color 2')
+
+def console():
+  print("HHeck")
