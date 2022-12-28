@@ -3,9 +3,10 @@ from tkinter import*
 
 launch = Tk()
 
-launch.mainloop()
-
 os.system('color 2')
 
-def console():
-  print("HHeck")
+print("1 = True |\n0 = False |")
+
+print("Console :\n Launcher=1")
+
+launch.mainloop()
