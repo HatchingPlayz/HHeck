@@ -3,10 +3,12 @@ from tkinter import*
 
 launch = Tk()
 
+launch.title("HHeck Launcher")
+launch.geometry("720x420")
+
 os.system('color 2')
 
 print("1 = True |\n0 = False |")
-
 print("Console :\n Launcher=1")
 
 launch.mainloop()
